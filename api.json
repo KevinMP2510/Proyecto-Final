@@ -1,0 +1,26 @@
+[
+    {
+      "precio": 20,
+      "id": 1,
+      "title": "Chock Pasas",
+      "img": ""
+    },
+    {
+      "precio": 20,
+      "id": 2,
+      "title": "Nibs",
+      "img": ""
+    },
+    {
+      "precio": 22,
+      "id": 3,
+      "title": "Chock Almendra",
+      "img": ""
+    },
+    {
+      "precio": 22,
+      "id": 4,
+      "title": "Chock Mani",
+      "img": ""
+    }
+  ]
